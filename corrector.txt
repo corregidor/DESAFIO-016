@@ -12,6 +12,7 @@ a) Indentación correcta: 0.5
 b) Correcto uso del lenguaje: 0.4 
 	Comentarios: 
 	No se considera para esta prueba, pero los nombres de las variables y métodos deben de ir en inglés
+	Se debe colocar || y no or (se encuentra en los videos)
 c) Resolución del problema: 1.0
 	Comentarios:
 	Espectacular! Felicitaciones, agregar métodos para la customización es genial!
@@ -39,10 +40,7 @@ c) Resolución del problema: 1.0
 Item 5 : Salir
 
 a) Indentación correcta: 0.5
-b) Correcto uso del lenguaje: 0.4 
-	Comentarios:
-	Se resuelve el problema, pero hay código redundante (ver nota en el codigo), 
-	es una mala práctica repetir código por eso el descuento, para que lo tengas en consideración
+b) Correcto uso del lenguaje: 0.5 
 c) Resolución del problema: 1.0
 
 
